@@ -14,7 +14,7 @@ console.log(b);
 
 const alma = 100;
 
-
+const citrom = 200;
 
 
 const q=ggg;
