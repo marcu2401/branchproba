@@ -1,1 +1,9 @@
-const a = valami;
+
+
+
+
+
+const q=ggg;
+
+const r= 44;
+
