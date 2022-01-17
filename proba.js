@@ -18,6 +18,8 @@ const citrom = 200;
 
 const fa = 500;
 
+const hold = 700;
+
 const q=ggg;
 
 const r= 44;
