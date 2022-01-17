@@ -1,5 +1,6 @@
 
 
+
 const a = valami;
 
 console.log(a);
@@ -11,5 +12,13 @@ console.log("Sziasztok")
 
 console.log(b);
 
+
+
+
+
+
+const q=ggg;
+
+const r= 44;
 
 
