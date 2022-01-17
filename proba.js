@@ -1,6 +1,6 @@
-<<<<<<< HEAD
 
 
+const a = valami;
 
 console.log(a);
 
@@ -11,6 +11,5 @@ console.log("Sziasztok")
 
 console.log(b);
 
-=======
-const a = valami;
->>>>>>> bendeguz
+
+
