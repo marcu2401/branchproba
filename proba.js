@@ -16,6 +16,7 @@ const alma = 100;
 
 const citrom = 200;
 
+const fa = 500;
 
 const q=ggg;
 
