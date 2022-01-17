@@ -1,9 +1,9 @@
 
 
 
-const a = valami;
+const t = valami;
 
-console.log(a);
+console.log(t);
 
 const b=23;
 const c = 42;
