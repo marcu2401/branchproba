@@ -12,7 +12,7 @@ console.log("Sziasztok")
 
 console.log(b);
 
-
+const alma = 100;
 
 
 
